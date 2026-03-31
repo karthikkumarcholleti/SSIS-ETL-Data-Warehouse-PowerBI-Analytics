@@ -65,7 +65,7 @@ The SSIS package performs:
 
 ### ETL Pipeline Design
 
-![SSIS Pipeline](imges/pipeline.png)
+![SSIS Pipeline](images/pipeline.png)
 
 ---
 
@@ -105,7 +105,7 @@ Dynamic **Row-Level Security (RLS)** was implemented using DAX to restrict data 
 
 ### Dashboard Preview
 
-![Power BI Dashboard](imges/Dashboard.png)
+![Power BI Dashboard](images/Dashboard.png)
 
 ---
 
@@ -113,7 +113,7 @@ Dynamic **Row-Level Security (RLS)** was implemented using DAX to restrict data 
 
 A flow was created to automatically send emails to managers implying to Row level security principles established.
 
-![Power Automate Flow](imges/Power_Automate_Flow.png)
+![Power Automate Flow](images/Power_Automate_Flow.png)
 
 ## 🔐 Security & Governance
 
